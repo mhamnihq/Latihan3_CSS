@@ -1,0 +1,19 @@
+h1 {
+	color: navy;
+	text-align: center;
+	text-decoration: underline;
+	text-transform: uppercase;
+	letter-spacing: 13px;
+	word-spacing: 16px
+
+}
+
+
+p {
+	text-align: justify;
+	text-indent: 50px;
+	text-decoration: line-through;
+	text-transform: none;
+	letter-spacing: 1px;
+	word-spacing: 3px;
+}
